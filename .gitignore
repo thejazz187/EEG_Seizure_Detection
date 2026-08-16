@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Large datasets
+data/
+*.edf
+*.txt
+*.csv
+
+# Processed EEG arrays
+*.npy
+*.npz
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.dbl
