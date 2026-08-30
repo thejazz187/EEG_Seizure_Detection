@@ -21,9 +21,9 @@ Machine learning and deep learning framework for automated epileptic seizure det
 - [x] Bonn data validation
 - [x] CHB-MIT preprocessing
 - [x] Siena preprocessing
-- [ ] Random Forest
-- [ ] CNN
-- [ ] Transformer
+- [x] Random Forest
+- [x] CNN
+- [x] Transformer
 - [ ] Cross-dataset evaluation
 - [ ] Explainability
 - [ ] Robustness testing
